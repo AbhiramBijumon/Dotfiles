@@ -7,29 +7,29 @@ Used apps:-
 
 WM- I3-Gaps
 
-Compositor-Picom
+Compositor- Picom
 
-Bar-Polybar
+Bar- Polybar
 
-Notification-Dunst
+Notification- Dunst
 
-Editor-Vim
+Editor- Vim
 
-Menu-DMenu
+Menu- DMenu
 
-Wallpaper-Nitrogen
+Wallpaper- Nitrogen
 
-Terminal-Kitty
+Terminal- Kitty
 
-Fetch-Neofetch
+Fetch- Neofetch
 
-MusicPlayer-CMUS
+MusicPlayer- CMUS
 
-FileManager-PCManFM/Ranger
+FileManager- Ranger
 
-Browser-Firefox
+Browser- Firefox
 
 Homepage- [Bento](https://github.com/AbhiramBijumon/Bento)
 
-Other-CBonsai,CMatrix
+Other- CBonsai,CMatrix
 
