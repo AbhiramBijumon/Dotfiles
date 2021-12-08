@@ -29,7 +29,7 @@ FileManager-PCManFM/Ranger
 
 Browser-Firefox
 
-Homepage- [Bento] (https://github.com/AbhiramBijumon/Bento)
+Homepage- [Bento](https://github.com/AbhiramBijumon/Bento)
 
 Other-CBonsai,CMatrix
 
