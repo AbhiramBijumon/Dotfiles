@@ -1,7 +1,7 @@
 # Dotfiles
 This is the dotfiles for my linux rice.
 
-OS-Manjaro-I3 community edition
+OS- [Manjaro](https://manjaro.org/downloads/community/i3/)
 
 Used apps:-
 
